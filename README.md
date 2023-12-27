@@ -28,7 +28,7 @@ Follow these steps to set up the Kinova Robotic Arm Tower Builder:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/kinova-tower-builder.git
+git clone https://github.com/AjDevCode/kinova-tower-builder.git
 ```
 ## Usage
 To run the Kinova Robotic Arm Tower Builder, execute the following command:
